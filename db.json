@@ -1,0 +1,138 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Gowardhan Cow Ghee 1Kg",
+      "description": "Gowardhan COW GHEE 1 Kg 1 kg Plastic Bottle at best prices with FREE shipping",
+      "imageUrl": "https://m.media-amazon.com/images/I/61xhFlx+-ML._SL1000_.jpg?size=200",
+      "price": 545
+    },
+    {
+      "id": 2,
+      "name": "Aashirvaad Atta 1Kg",
+      "description": "product quality becoming worst day by day and price increasing. soumyajit, Kolkata (a year ago).Aashirvaad Shudh Chakki Atta is 100% whole wheat atta prepared using the choicest ",
+      "imageUrl": "https://5.imimg.com/data5/TV/IP/GLADMIN-30212742/wheat-flour-500x500.png?size=200 ",
+      "price": 520
+    },
+    {
+      "id": 3,
+      "name": "India Gate Basmati Rice 1Kg",
+      "description": "Buy from a wide range of rice and rice products from top brands like India Gate, bb Royal, Daawat, Fortune, Double Horse. ",
+      "imageUrl": "https://www.kindpng.com/picc/m/274-2744121_fortune-everyday-basmati-rice-hd-png-download.png",
+      "price": 210
+    },
+    {
+      "id": 4,
+      "name": "MONCLEAR-T-shirt",
+      "description": "Our best selling short sleeve T-Shirt, the Crew neck and Straight-Hem, with our staple fabric.",
+      "imageUrl": "https://rukminim1.flixcart.com/image/714/857/jvzkb680/t-shirt/u/v/6/xl-tshirt-xl-01-whtgryblk-tshirts-men-print-station-original-imafgsy7hqky848d.jpeg?q=50",
+      "price": 1020
+    },
+    {
+      "id": 5,
+      "name": "PECC-T-shirt",
+      "description": "Designed for everyday wear, from the office & Graphic patch print with hidden details.",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFQZ3BUsvDDAIu74n0iYkf5Xe146mO5XoFJSPtm0WH-Z9znsG9NMMARGR49-_mjg9isDs&usqp=CAU",
+      "price": 500
+    },
+    {
+      "id": 6,
+      "name": "SENSE- LOGO-TShirt",
+      "description": "Designed for everyday wear, from the office & Graphic patch print with hidden details.",
+      "imageUrl": "https://rukminim1.flixcart.com/image/714/857/kcgk1ow0/t-shirt/d/i/z/xl-hsb11-mrn-trends-tower-original-imaftkustrjqthgy.jpeg?q=50",
+      "price": 999
+    },
+    {
+      "id": 7,
+      "name": "Rikon Quartz Digital Red LED Sqare",
+      "description": "The battery inside is always kept locked with the help of an insulation strip",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfC14EWqhkz1e9zvPS8nIUMPYBjWun6UZKMQ&usqp=CAU",
+      "price": 2000
+    },
+    {
+      "id": 8,
+      "name": "Teal by Chumbak Begum Clock",
+      "description": "Get 10% up to Rs. 1500 Instant Discount on American Express Credit Card EMI transactions ",
+      "imageUrl": "https://thumbs.dreamstime.com/b/white-alarm-clock-brown-wood-desk-cream-wallpaper-textured-background-copy-space-172961685.jpg",
+      "price": 2900
+    },
+    {
+      "id": 9,
+      "name": "Solimo 12-inch Wall Clock",
+      "description": "Material: Plastic; Colour: Black; Finish: Other;Ideal for living room, bedroom & offices",
+      "imageUrl": "https://ak.picdn.net/shutterstock/videos/5045111/thumb/1.jpg",
+      "price": 990
+    },
+    {
+      "id": 10,
+      "name": "OnePlus Nord CE 5G ",
+      "description": "64MP+8MP+2MP triple rear camera with 1080p video at 30/60 fps, 4k 30 fps | 16MP front camera with 1080p video at 30/60 fps.",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT63rAAk9NE8ZpBrektwhbGXR2mVKN0ZqBXsw&usqp=CAU",
+      "price": 21000
+    },
+    {
+      "id": 11,
+      "name": "Solimo Mobile Cover for Realme 5 ",
+      "description": "Protects phone from Raised upper lip build design to help protect the screen against fall on a flat surface",
+      "imageUrl": "https://cdn.bigcmobiles.com/media/catalog/product/cache/ca7a577ad523e1fc8ef6aaa30738ddb8/g/a/galaxy_a50s_bigcmobiles.jpg",
+      "price": 29100
+    },
+    {
+      "id": 12,
+      "name": "iQOO Z3 5G (Cyber Blue)",
+      "description": "Qualcomm 55W FlashCharge can charge the 4400mAh battery up to 50% in just 19 minutes* and a full charge in just 50 minutes",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_bO50Dsywd-rWtqhRi0kdCvC7ty7LJBg9uA&usqp=CAU",
+      "price": 39000
+    }
+  ],
+  "wishlist": [],
+  "cart": [
+    {
+      "product": {
+        "id": 3,
+        "name": "json-server",
+        "description": "Lorem ipsum may be used as a placeholder before final copy is available.",
+        "imageUrl": "https://1080motion.com/wp-content/uploads/2018/06/NoImageFound.jpg.png",
+        "price": 399
+      },
+      "id": 1
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "json-server",
+        "description": "Lorem ipsum may be used as a placeholder before final copy is available.",
+        "imageUrl": "https://1080motion.com/wp-content/uploads/2018/06/NoImageFound.jpg.png",
+        "price": 299
+      },
+      "id": 2
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "India Gate Basmati Rice 1Kg",
+        "description": "Buy from a wide range of rice and rice products from top brands like India Gate, bb Royal, Daawat, Fortune, Double Horse. ",
+        "imageUrl": "https://www.kindpng.com/picc/m/274-2744121_fortune-everyday-basmati-rice-hd-png-download.png",
+        "price": 210
+      },
+      "id": 3
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

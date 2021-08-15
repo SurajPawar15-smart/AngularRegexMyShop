@@ -1,0 +1,86 @@
+<!-- <p>register works!</p>
+
+<p>
+  <a [routerLink]="['/login']">Login</a>
+</p> -->
+<div class="row">
+  <div class="col-md-4 offset-md-4">
+    <div class="guest-form-card card">
+
+      <div class="card-header text-center">
+        <h2>Register Here</h2>
+      </div>
+
+      <div class="card-body">
+        <form>
+          <div class="form-group">
+            <label for="name">Name</label>
+            <input
+              id="name"
+              class="form-control"
+              
+              formControlName="name"
+            />
+            <span class="invalid-feedback">Name can't be blank.</span>
+          </div>
+
+          <div class="form-group">
+            <label for="email">Email</label>
+            <input
+              type="email"
+              id="email"
+              class="form-control"
+              
+              formControlName="email"
+            />
+            <span class="invalid-feedback">
+              <span>Email can't be blank.</span>
+              <span>Email must be valid.</span>
+            </span>
+          </div>
+
+          <div class="form-group">
+            <label for="username">Username</label>
+            <input
+              id="username"
+              class="form-control"
+              
+              formControlName="username"
+            />
+            <span class="invalid-feedback">Username can't be blank.</span>
+          </div>
+
+          <div class="form-group">
+            <label for="password">Password</label>
+            <input
+              type="password"
+              id="password"
+              class="form-control"
+          
+              formControlName="password"
+            />
+            <span class="invalid-feedback">
+              <span>Password can't be blank.</span>
+              <span >Password must contain @</span>
+              <span >Password must contain minimum 4 characters</span>
+            </span>
+          </div>
+
+          <div class="form-group">
+            <label for="confirmPassword">Confirm Password</label>
+            <input
+              type="password"
+              id="confirmPassword"
+              class="form-control"
+              
+              formControlName="confirmPassword"
+            />
+            <span class="invalid-feedback">Passwords must match.</span>
+          </div>
+
+          <button class="btn btn-primary btn-block">Register</button>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
