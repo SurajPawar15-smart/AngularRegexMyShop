@@ -1,0 +1,37 @@
+Login and Register:
+-------------------
+
+- Routing in Angular (Intro)
+	- Module for Routing
+	- Create Routes:
+		- /login
+		- /register
+		- /shop
+	- Create a default route
+		- / -> /shop
+	- 404 route and component
+
+
+
+
+
+- Form Handling:
+	- Login Form - Template driven form
+	- Register Form - Reactive Form (Model Driven Forms)
+- Guarding the Routes
+
+-------------------------------------------------
+
+- Server Setup (server.js)
+
+-------------------------------------------------
+
+- User Specific 
+	- Add to Cart
+	- Add to Wishlist
+
+-------------------------------------------------
+
+- Remove From Cart
+- Position of the cart fixed while scrolling down.
+- View Product Detail

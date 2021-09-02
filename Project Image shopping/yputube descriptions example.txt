@@ -1,0 +1,44 @@
+In this video i will show you show how to send email from Django using Front-End Framework called Angular.  Sending Emails are necessary when build enterprise level web application so if you are interested in learning Django send_mail and also how to structure the code properly then this video is for you.
+
+Donate to help the channel: https://paypal.me/tipawais
+
+
+Udemy Course: 
+Loopback Course: https://www.udemy.com/course/angular-...
+
+
+JavaScript Bootcamp: https://www.udemy.com/course/javascri...
+
+
+Angular Course: https://www.udemy.com/course/angular-...
+
+
+************************************************
+Developer and Teaching Services Contact Details:
+Email: umairjameel321@gmail.com
+LinkedIn: https://www.linkedin.com/in/umair-jam...
+
+
+Get online tutors to teach you any programming language Or get your mobile or web application build.
+
+************************************************
+My Computer Setup :
+MacBook Pro : https://amzn.to/31CtKHw
+
+Monitor: https://amzn.to/31Jubj9
+
+Microphone: https://amzn.to/2KDZYfM
+
+Keyboard: https://amzn.to/2KCkjSA
+
+Mouse: https://amzn.to/2KXcNku
+
+
+*************************************************
+
+****************************************************
+Connect With Me:
+
+Twitter : https://twitter.com/AwaisMirza01
+
+Facebook: https://www.facebook.com/awaismirza01/
